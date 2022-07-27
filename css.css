@@ -1,0 +1,6 @@
+body{
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
